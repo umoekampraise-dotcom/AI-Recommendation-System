@@ -74,8 +74,8 @@ Process finished with exit code 0
 
 | role | skills |
 |------|--------|
-|AI Engineer | Python TensorFlow PyTorch Machine_Learning Deep_Learning APIs Model_Deployment Docker
-Prompt Engineer,LLMs Prompt_Design ChatGPT Claude API_Integration NLP AI_Tools Evaluation Fine_Tuning|
+|AI Engineer | Python TensorFlow PyTorch Machine_Learning Deep_Learning APIs Model_Deployment Docker|
+|Prompt Engineer | LLMs Prompt_Design ChatGPT Claude API_Integration NLP AI_Tools Evaluation Fine_Tuning|
 |AI Automation | Specialistn8n Make Zapier APIs Workflow_Automation LLMs Prompt_Design No_Code AI_Tools|
 |AI Trainer | Python Data_Labeling Annotation Prompt_Design LLMs Evaluation Quality_Control RLHF|
 |Machine Learning Engineer | Python Scikit_learn TensorFlow PyTorch Model_Training Feature_Engineering Data_Preprocessing Statistics|
