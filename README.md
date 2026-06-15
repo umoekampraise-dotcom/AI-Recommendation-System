@@ -89,5 +89,5 @@ Process finished with exit code 0
 
 
 ## About
-Built by [YOUR NAME] as part of DecodeLabs AI Engineering 
-Internship Batch 2026 — Project 3.
+Built by Torobong Umoekam as part of DecodeLabs AI Engineering 
+Internship Project 3
