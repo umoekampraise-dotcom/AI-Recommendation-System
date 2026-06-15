@@ -91,3 +91,6 @@ Process finished with exit code 0
 ## About
 Built by Torobong Umoekam as part of DecodeLabs AI Engineering 
 Internship Project 3
+📧 umoekampraise@gmail.com 🔗 LinkedIn: https://www.linkedin.com/in/torobong-umoekam-32b0b2291
+
+
